@@ -1,4 +1,4 @@
-    #Journey Tech
+##Journey Tech
 
 Journey Tech is an educational web platform designed to equip beginners with foundational programming skills through interactive workshops, tutorials, and creative projects. Our mission is to simplify complex tech concepts and make coding accessible to learners of all backgrounds.
 
