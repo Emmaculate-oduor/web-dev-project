@@ -1,8 +1,11 @@
 Journey Tech
+
 Journey Tech is an educational web platform designed to equip beginners with foundational programming skills through interactive workshops, tutorials, and creative projects. Our mission is to simplify complex tech concepts and make coding accessible to learners of all backgrounds.
 
 Contribution
 1. Emmaculate Adhiambo Oduor
+
+   
 🌍 Live Demo
 Coming soon — Deploy the project on platforms like GitHub Pages, Netlify, or Vercel and update this section with the link.
 
@@ -69,7 +72,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/emmaculate-oduor/journey-tech.git
+git clone https://github.com/Emmaculate-oduor/web-dev-project.git
 cd journey-tech
 Open index.html in your browser
 Simply double-click the index.html file or run a local server (optional):
